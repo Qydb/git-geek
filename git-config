@@ -1,4 +1,4 @@
-Script started on 2013年12月11日 星期三 11时31分16秒
+Script started on 2013年12月11日 星期三 11时33分59秒
 ]0;floionz@ubuntu: ~/gittest/git-geekfloionz@ubuntu:~/gittest/git-geek$ git config
 用法：git config [options]
 
@@ -34,7 +34,7 @@ Other
     -z, --null            terminate values with NUL byte
     --includes            respect include directives on lookup
 
-]0;floionz@ubuntu: ~/gittest/git-geekfloionz@ubuntu:~/gittest/git-geek$ git[K[K[Kexit
+]0;floionz@ubuntu: ~/gittest/git-geekfloionz@ubuntu:~/gittest/git-geek$ exit
 exit
 
-Script done on 2013年12月11日 星期三 11时31分23秒
+Script done on 2013年12月11日 星期三 11时34分03秒
